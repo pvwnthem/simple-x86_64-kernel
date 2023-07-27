@@ -1,6 +1,6 @@
 ENTRY(start)
 
-SECTION
+SECTIONS
 {
     . = 1M;
 
